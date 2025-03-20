@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yassine known as Crypt10</h1>
-<h3 align="center">An Security Research,Coder and CrytoTrader</h3>
+<h3 align="center">A Security Research,Coder and CrytoTrader</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhx1&label=Profile%20views&color=0e75b6&style=flat" alt="bhx1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhx1" alt="bhx1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bhx1" target="blank"><img src="https://img.shields.io/twitter/follow/bhx1?logo=twitter&style=for-the-badge" alt="bhx1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cazan0va" target="blank"><img src="https://img.shields.io/twitter/follow/bhx1?logo=twitter&style=for-the-badge" alt="bhx1" /></a> </p>
 
 - 🔭 I’m currently working on **HackerOne , Bugcrowd**
 
