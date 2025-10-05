@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yassine known as Crypt10</h1>
-<h3 align="center">A Security Research,Coder and CrytoTrader</h3>
+<h1 align="center">Hi 👋, I'm Yassine Ben Ayed </h1>
+<h3 align="center">A Security Researcher And Bug Bounty Hunter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhx1&label=Profile%20views&color=0e75b6&style=flat" alt="bhx1" /> </p>
 
@@ -7,16 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/cazan0va" target="blank"><img src="https://img.shields.io/twitter/follow/bhx1?logo=twitter&style=for-the-badge" alt="bhx1" /></a> </p>
 
-- 🔭 I’m currently working on **HackerOne , Bugcrowd**
+- 🔭 I’m currently working on **HackerOne , Bugcrowd , GoogleVRP**
 
-- 📫 How to reach me **charonxx1@protonmail.com**
+- 📫 How to reach me **bhx1hackerone@gmail.com**
 
-- ⚡ Fun fact **I think i was sick when i wasn't**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhx1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhx1" height="30" width="40" /></a>
-<a href="https://fb.com/yassinebenayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassinebenayed" height="30" width="40" /></a>
+<a href="[https://twitter.com/cazan0va_](https://x.com/cazan0va)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhx1" height="30" width="40" /></a>
+<a href="[https://fb.com/yassinebenayed](https://www.facebook.com/Yessinebenayedx/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassinebenayed" height="30" width="40" /></a>
 <a href="https://instagram.com/yessinebenayed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassinebenayed_" height="30" width="40" /></a>
 </p>
 
